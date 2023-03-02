@@ -7,5 +7,5 @@
  3. Edit each Bootstrap Cards by inseart name and Photo in each animal Card<br>
  4. The grid at its largest should be 4 rows by 4 columns. <br>
  5. Make a Responsive 
-
-🐶 Webpage: Dogs I Love 🐶
+ 
+<br>🐶 [Webpage: Dogs I Love](index.html) 🐶
